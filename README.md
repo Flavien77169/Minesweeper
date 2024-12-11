@@ -25,12 +25,6 @@ If a Tkinter window opens, it means Tkinter is correctly installed.
 
 ## Installation
 1. Clone this repository:
-
-```bash
-git clone <REPO_URL>
-cd minesweeper-python
-```
-
 2. Ensure Python 3.x is installed on your machine.
 
 ## Running the Program
